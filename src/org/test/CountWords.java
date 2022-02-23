@@ -40,6 +40,7 @@ public class CountWords {
     	lst.add("pradeep");
     	lst.add("santhosh");
     	lst.add("*m)00");
+    	lst.add("8989");
  		System.out.println("No of words : " + countWords(lst));
 	}
 }
